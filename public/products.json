@@ -1,10 +1,30 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-01T09:53:01.516Z",
+  "generated_at": "2026-07-01T09:56:00.833Z",
   "base_url": "https://kesem-hakuskus.zappy5.app",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
+    {
+      "id": "f64d17f6-0466-4495-a4eb-e61c4188f371",
+      "slug": "kvskvs-vdg-slmvn-plvs-mtbvchh-vchmvtsym-w4san4",
+      "name": "קוסקוס ודג סלמון פלוס מטבוחה וחמוצים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קוסקוס פלוס דג סלמון מגיע עם חמוצים ומטבוחה",
+      "sku": null,
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://kesem-hakuskus.zappy5.app/product/kvskvs-vdg-slmvn-plvs-mtbvchh-vchmvtsym-w4san4",
+      "categories": [],
+      "updated_at": "2026-07-01T09:55:29.648Z"
+    },
     {
       "id": "9b25c74b-8f36-474c-85ae-a89a229c7257",
       "slug": "kvskvs-avp-mtbvchh-vchmvtsym-64ds3r",
