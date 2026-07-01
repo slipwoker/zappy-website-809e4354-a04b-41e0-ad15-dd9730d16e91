@@ -5282,9 +5282,10 @@ Description: קסם הקוסקוס - תודה - קסם הקוסקוס
 ## Product Catalog
 
 ### קוסקוס ודג סלמון פלוס מטבוחה וחמוצים
-URL: https://kesem-hakuskus.zappy5.app/product/kvskvs-vdg-slmvn-plvs-mtbvchh-vchmvtsym-w4san4
-Price: 0.00 ILS
+URL: https://kesem-hakuskus.zappy5.app/product/kvskvs-vdg-slmvn-plvs-mtbvchh-vchmvtsym-sjcs5i
+Price: 50.00 ILS
 Availability: In stock
+Brand: קסם הקוסקוס
 
 ---
 
