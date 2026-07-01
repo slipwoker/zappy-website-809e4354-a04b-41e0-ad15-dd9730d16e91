@@ -1,10 +1,32 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-01T09:58:20.457Z",
+  "generated_at": "2026-07-01T10:04:55.834Z",
   "base_url": "https://kesem-hakuskus.zappy5.app",
   "currency": "ILS",
-  "count": 2,
+  "count": 3,
   "products": [
+    {
+      "id": "101691ab-44dd-44ef-8743-7540f5e032ac",
+      "slug": "mrk-kvbh-slk-leki7s",
+      "name": "מרק קובה סלק",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מרק קובה סלק מלא בטעמים מדהימים ",
+      "sku": null,
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": 50,
+      "currency": "ILS",
+      "images": [
+        "https://kesem-hakuskus.zappy5.app/assets/image-product-image-1782900193498-whgcf3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://kesem-hakuskus.zappy5.app/product/mrk-kvbh-slk-leki7s",
+      "categories": [],
+      "updated_at": "2026-07-01T10:04:24.077Z"
+    },
     {
       "id": "f64d17f6-0466-4495-a4eb-e61c4188f371",
       "slug": "kvskvs-vdg-slmvn-plvs-mtbvchh-vchmvtsym-sjcs5i",
