@@ -1,0 +1,106 @@
+# קסם הקוסקוס — Generative Engine Optimization Map
+
+> צור לי אתר אונליין לחנות אוכל
+
+---
+
+## Pages
+
+### בית
+https://-809e4354.zappy5.app
+הכניסו את עולם הקולינריה המושלם עם קסם הקוסקוס. חוויית אוכל ושתייה ייחודית שמשלבת מסורת וחדשנות. הזמינו עכשיו וטעמו את ההבדל!
+
+### אודות
+https://-809e4354.zappy5.app/about
+מסע קולינרי מרתק אל לב תעשיית המזון והמשקאות. גלו את החזון, התשוקה והאנשים שהופכים כל מנה ליצירת מופת. בואו להכיר אותנו מקרוב!
+
+### גלריה
+https://-809e4354.zappy5.app/gallery
+צפו במגוון סוגי שירותי מזון ומשקאות דרך תמונות מעוררות תיאבון. כל צילום מספר סיפור של טעם, צבע והשראה. היכנסו לגלריה ותתחילו לחלום!
+
+### צור קשר
+https://-809e4354.zappy5.app/contact
+מוכנים לחוות את קסם האוכל והשתייה? השאירו פרטים ונחזור אליכם במהירות עם הצעה מותאמת אישית. בואו נדבר ונתחיל ליצור יחד!
+
+### Products
+https://-809e4354.zappy5.app/products
+המוצרים שלנו - קסם הקוסקוס
+
+### Cart
+https://-809e4354.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-809e4354.zappy5.app/checkout
+תשלום
+
+### Login
+https://-809e4354.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-809e4354.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-809e4354.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-809e4354.zappy5.app/product/:slug
+פרטי המוצר - קסם הקוסקוס
+
+### Category
+https://-809e4354.zappy5.app/category/:slug
+מוצרים - קסם הקוסקוס
+
+### תודה - קסם הקוסקוס
+https://-809e4354.zappy5.app/thank-you
+קסם הקוסקוס - תודה - קסם הקוסקוס
+
+## Legal & Policy
+
+### Privacy Policy
+https://-809e4354.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-809e4354.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-809e4354.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קסם הקוסקוס
+צור לי אתר אונליין לחנות אוכל
+
+## Target Audience
+- משפחות עסוקות
+- צעירים מודעים לבריאות
+- חובבי קולינריה
+- צמחונים וטבעונים
+- משפחות מרובות ילדים
+
+## Industry
+Food & Beverage
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-809e4354.zappy5.app/sitemap.xml
+- Robots: https://-809e4354.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-809e4354.zappy5.app/llms-full.txt
+- Products (JSON): https://-809e4354.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-809e4354.zappy5.app/product-feed.xml
