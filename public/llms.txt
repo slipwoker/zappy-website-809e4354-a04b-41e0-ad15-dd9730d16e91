@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://example.com
+https://kesem-hakuskus.zappy5.app
 הכניסו את עולם הקולינריה המושלם עם קסם הקוסקוס. חוויית אוכל ושתייה ייחודית שמשלבת מסורת וחדשנות. הזמינו עכשיו וטעמו את ההבדל!
 
 ### אודות
-https://example.com/about
+https://kesem-hakuskus.zappy5.app/about
 מסע קולינרי מרתק אל לב תעשיית המזון והמשקאות. גלו את החזון, התשוקה והאנשים שהופכים כל מנה ליצירת מופת. בואו להכיר אותנו מקרוב!
 
 ### גלריה
-https://example.com/gallery
+https://kesem-hakuskus.zappy5.app/gallery
 צפו במגוון סוגי שירותי מזון ומשקאות דרך תמונות מעוררות תיאבון. כל צילום מספר סיפור של טעם, צבע והשראה. היכנסו לגלריה ותתחילו לחלום!
 
 ### צור קשר
-https://example.com/contact
+https://kesem-hakuskus.zappy5.app/contact
 מוכנים לחוות את קסם האוכל והשתייה? השאירו פרטים ונחזור אליכם במהירות עם הצעה מותאמת אישית. בואו נדבר ונתחיל ליצור יחד!
 
 ### Products
-https://example.com/products
+https://kesem-hakuskus.zappy5.app/products
 המוצרים שלנו - קסם הקוסקוס
 
 ### Cart
-https://example.com/cart
+https://kesem-hakuskus.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://kesem-hakuskus.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://kesem-hakuskus.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://kesem-hakuskus.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://kesem-hakuskus.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://kesem-hakuskus.zappy5.app/product/:slug
 פרטי המוצר - קסם הקוסקוס
 
 ### Category
-https://example.com/category/:slug
+https://kesem-hakuskus.zappy5.app/category/:slug
 מוצרים - קסם הקוסקוס
 
 ### תודה - קסם הקוסקוס
-https://example.com/thank-you
+https://kesem-hakuskus.zappy5.app/thank-you
 קסם הקוסקוס - תודה - קסם הקוסקוס
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://kesem-hakuskus.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://kesem-hakuskus.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://kesem-hakuskus.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -79,12 +79,12 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 1**
 
 ### קוסקוס עוף מטבוחה וחמוצים
-https://example.com/product/kvskvs-avp-mtbvchh-vchmvtsym-64ds3r
+https://kesem-hakuskus.zappy5.app/product/kvskvs-avp-mtbvchh-vchmvtsym-64ds3r
 - Price: 50.00 ILS
 - Availability: In stock
 - SKU: אוכל ביתי
 - Description: קוסקוס ביתי קלאסי מלא בטעמים מגיע עם חמוצים ומטבוחה בצד
-- Image: https://example.com/assets/image-product-image-1782898730653-633egt.webp
+- Image: https://kesem-hakuskus.zappy5.app/assets/image-product-image-1782898730653-633egt.webp
 
 ---
 
@@ -107,8 +107,8 @@ Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://kesem-hakuskus.zappy5.app/sitemap.xml
+- Robots: https://kesem-hakuskus.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://kesem-hakuskus.zappy5.app/llms-full.txt
+- Products (JSON): https://kesem-hakuskus.zappy5.app/products.json
+- Products (Google Merchant RSS): https://kesem-hakuskus.zappy5.app/product-feed.xml
