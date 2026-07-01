@@ -1,8 +1,31 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-01T09:34:02.465Z",
+  "generated_at": "2026-07-01T09:52:14.937Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "9b25c74b-8f36-474c-85ae-a89a229c7257",
+      "slug": "kvskvs-avp-mtbvchh-vchmvtsym-64ds3r",
+      "name": "קוסקוס עוף מטבוחה וחמוצים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קוסקוס ביתי קלאסי מלא בטעמים מגיע עם חמוצים ומטבוחה בצד",
+      "sku": "אוכל ביתי",
+      "brand": null,
+      "price": 50,
+      "base_price": 50,
+      "sale_price": 50,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1782898730653-633egt.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/kvskvs-avp-mtbvchh-vchmvtsym-64ds3r",
+      "categories": [],
+      "updated_at": "2026-07-01T09:46:41.564Z"
+    }
+  ]
 }
