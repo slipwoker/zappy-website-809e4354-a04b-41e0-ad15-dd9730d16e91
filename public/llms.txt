@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-809e4354.zappy5.app
+https://example.com
 הכניסו את עולם הקולינריה המושלם עם קסם הקוסקוס. חוויית אוכל ושתייה ייחודית שמשלבת מסורת וחדשנות. הזמינו עכשיו וטעמו את ההבדל!
 
 ### אודות
-https://-809e4354.zappy5.app/about
+https://example.com/about
 מסע קולינרי מרתק אל לב תעשיית המזון והמשקאות. גלו את החזון, התשוקה והאנשים שהופכים כל מנה ליצירת מופת. בואו להכיר אותנו מקרוב!
 
 ### גלריה
-https://-809e4354.zappy5.app/gallery
+https://example.com/gallery
 צפו במגוון סוגי שירותי מזון ומשקאות דרך תמונות מעוררות תיאבון. כל צילום מספר סיפור של טעם, צבע והשראה. היכנסו לגלריה ותתחילו לחלום!
 
 ### צור קשר
-https://-809e4354.zappy5.app/contact
+https://example.com/contact
 מוכנים לחוות את קסם האוכל והשתייה? השאירו פרטים ונחזור אליכם במהירות עם הצעה מותאמת אישית. בואו נדבר ונתחיל ליצור יחד!
 
 ### Products
-https://-809e4354.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - קסם הקוסקוס
 
 ### Cart
-https://-809e4354.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-809e4354.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-809e4354.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-809e4354.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-809e4354.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-809e4354.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - קסם הקוסקוס
 
 ### Category
-https://-809e4354.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - קסם הקוסקוס
 
 ### תודה - קסם הקוסקוס
-https://-809e4354.zappy5.app/thank-you
+https://example.com/thank-you
 קסם הקוסקוס - תודה - קסם הקוסקוס
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-809e4354.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-809e4354.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-809e4354.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-809e4354.zappy5.app/sitemap.xml
-- Robots: https://-809e4354.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-809e4354.zappy5.app/llms-full.txt
-- Products (JSON): https://-809e4354.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-809e4354.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
